@@ -1,4 +1,4 @@
-# [Ghost 3.X](https://github.com/TryGhost/Ghost) on [Heroku](http://heroku.com)
+# [Ghost 3.2.0](https://github.com/TryGhost/Ghost) on [Heroku](http://heroku.com)
 
 Ghost is a free, open, simple blogging platform. Visit the project's website at <http://ghost.org>, or read the docs on <http://support.ghost.org>.
 
@@ -89,7 +89,7 @@ FYI: You can access mailgun dashboard by visiting heroku dashboard > click on yo
 
 #### Dark Mode is now available
 
-As of version 3.0.0 Dark mode is available on Ghost Casper theme. Please make sure your's system's dark mode is enabled first to activate dark mode.
+As of version 3.2.0 Dark mode is available on Ghost Casper theme. Please make sure your's system's dark mode is enabled first to activate dark mode.
 
 ### How this works
 

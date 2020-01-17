@@ -1,11 +1,7 @@
 themes=(
 	casper
-	attila
 	london
-	massively
-	bleak
-	the-shell
-	vapor
+        shun-ghost
 )
 
 for theme in "${themes[@]}"
